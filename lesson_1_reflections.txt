@@ -1,0 +1,23 @@
+Looking at the files manually requires that every line be examined.
+ Diff allows a user to only examine the lines that have differences. 
+ This can be a large time savings, especially in contexts where a small
+  fraction of the lines have been changed.
+
+  Having the entire history of a file available would be helpful when trying to fix errors, 
+  because a user could compare past versions to the current version to find out when
+  the error was introduced.
+
+  The advantage of manually choosing commit points is that each commit represents something 
+  easily describable and understandable. This means that it your sequence of commits is
+  essentially the workflow of the project.
+
+  Updating multiple files together is useful when they contain code that relates to 
+  one another. it is not useful when each file is used separately, as in Google Dogs.
+
+  Git log and git diff allow you to see the sequence of commits, along with examining 
+  how many lines and files have changed between each pair of commits.
+
+  Having the ability to roll back changes allows a user to be more aggressive in making 
+  potentially application-breaking changes, because it is simple to undo them.
+
+  Git will be useful at work as well as in personal projects.
