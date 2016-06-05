@@ -5,3 +5,14 @@ the repository was initialized.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers? 
 The staging area is different from the working directory because it only contains the files that are part of the next commit. This allows you to separate out the files that have changed in each commit.
+
+How can you use the staging area to make sure you have one commit per logical change? You can stage and commit changes one by one based on their logical relationship.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help? Branches are useful for experimental features, or for new versions.
+
+How do the diagrams help you visualize the branch structure? They are helpful 
+in visualizing the branch structure because it is easy to see each commit’s parent.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging two branches together keeps all code that was added from the parents of the branches, and 
+removes all code that was removed from the parent by either branch.
