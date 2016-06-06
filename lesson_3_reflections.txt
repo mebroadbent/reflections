@@ -6,3 +6,10 @@ So features are released in a process separate from when individual commits are 
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another? Forks
 are for other people's repos. Clones move repos from github to my local machine. Branches exist within a single repo.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+The primary advantage is that you can store them without having to merge them with
+your own local changes immediately.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder? The rigid structure will eventually allow the end product to be more organized. However a lot of upfront training will be necessary. Also certain file types
+that people may like to use such as Excel will not be suitable.
