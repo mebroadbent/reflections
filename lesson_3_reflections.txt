@@ -13,3 +13,5 @@ your own local changes immediately.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder? The rigid structure will eventually allow the end product to be more organized. However a lot of upfront training will be necessary. Also certain file types
 that people may like to use such as Excel will not be suitable.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have? Putting things in a separate branch allows you to firewall changes and stay more organized.
